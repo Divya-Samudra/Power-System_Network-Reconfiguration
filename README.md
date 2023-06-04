@@ -1,4 +1,4 @@
-# Power-System_Network-Reconfiguration using Ant Colony Optimizationmethod
+# Power-System_Network-Reconfiguration using Ant Colony Optimization method
 # Civanler 3 Feeder System
 ![image](https://github.com/Divya-Samudra/Power-System_Network-Reconfiguration/assets/130666521/e5fd5f29-0e4a-4d57-b176-88e5c487faa0)
 # System Data:
